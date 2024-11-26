@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Component Library",
+            "type": "dart",
+            "request": "launch",
+            "cwd": "packages\\component_library\\example",
+            "program": "lib\\main.dart"
+        },
+        {
+            "name": "Gest Manga",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\main.dart"
+        }
+    ]
+}
